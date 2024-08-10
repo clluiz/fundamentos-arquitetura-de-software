@@ -9,3 +9,14 @@ Inspirado pelo livro [Fundamentos de Arquitetura de software - Uma abordagem de 
 2. O porquê é mais importante do que o como
 
 Não existe bala de prata em arquitetura de software. Os *trade-offs* devem ser consderados de modo a entregar a melhor solução possível considerando custos, equipe, objetivos de negócio. 
+
+## Expectativas de um arquiteto de software
+
+1. Tomar decisões de arquitetura
+2. Analisar continuamente a arquitetura
+3. Manter-se atualizado com as últimas tendências
+4. Assegurar a conformidade com as decisões
+5. Exposição e experiência diversificadas
+6. Ter conhecimento sobre o domínio do negócio
+7. Ter habilidades interpessoais
+8. Entender e lidar bem com questões políticas
