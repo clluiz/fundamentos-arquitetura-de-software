@@ -8,4 +8,4 @@ Inspirado pelo livro [Fundamentos de Arquitetura de software - Uma abordagem de 
 
 2. O porquê é mais importante do que o como
 
-Não existe bala de prata em arquitetura de software. Os *trade-offs* devem ser consderados de entregar a melhor solução possível considerando custos, equipe, objetivos de negócio. 
+Não existe bala de prata em arquitetura de software. Os *trade-offs* devem ser consderados de modo a entregar a melhor solução possível considerando custos, equipe, objetivos de negócio. 
