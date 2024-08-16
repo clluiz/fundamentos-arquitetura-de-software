@@ -23,7 +23,7 @@ Não existe bala de prata em arquitetura de software. Os *trade-offs* devem ser 
 
 9. ## Arquitetura vs Design
 
-Arquitetura se trata de decisões estratégicas tais como extrair as características da arquitetura dos requisitos comerciais, É o "o quê" e o "por quê". Já o design são decisões de mais "baixo nível" o "Como". Seria como um analogia entre Estratégia e Tática. 
+Arquitetura se trata de decisões estratégicas tais como extrair as características da arquitetura dos requisitos comerciais, É o "o quê" e o "por quê". Já o design são decisões de mais "baixo nível", o "Como". Análogo à relação entre Estratégia e Tática. 
 
 Um arquiteto deve ter amplitude técnica ao passo que um programador deve ter profundidade técnica. O arquiteto deve sempre procurar ampliar o "o que ele sabe que não sabe".
 
