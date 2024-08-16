@@ -21,7 +21,7 @@ Não existe bala de prata em arquitetura de software. Os *trade-offs* devem ser 
 7. Ter habilidades interpessoais
 8. Entender e lidar bem com questões políticas
 
-9. ## Arquitetura vs Design
+## Arquitetura vs Design
 
 Arquitetura se trata de decisões estratégicas tais como extrair as características da arquitetura dos requisitos comerciais, É o "o quê" e o "por quê". Já o design são decisões de mais "baixo nível", o "Como". Análogo à relação entre Estratégia e Tática. 
 
