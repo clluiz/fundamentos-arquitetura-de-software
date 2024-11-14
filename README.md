@@ -33,7 +33,7 @@ Um arquiteto deve ter amplitude técnica ao passo que um programador deve ter pr
 Definição de termos usados em system design e arquitetura de software
 
 * Throughput: é a medida na qual um sistema processa requisições, operações, tarefas ou solicitações num determinado período de tempo.
-* Escalabilidade: é a capacidade que um sistema tem de lidar com um grande número de usuários simultâneos sem uma séria diminuição do desempenho. definição extraída do livro [Fundamentos de Arquitetura de Software - Uma abordagem de engenharia](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859/ref=sr_1_1?sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
+* Escalabilidade: é a capacidade que um sistema tem de lidar com um grande número de usuários simultâneos sem uma séria diminuição do desempenho. (Definição extraída do livro [Fundamentos de Arquitetura de Software - Uma abordagem de engenharia](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859/ref=sr_1_1?sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9))
 
 
 
