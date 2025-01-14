@@ -35,6 +35,8 @@ Definição de termos usados em system design e arquitetura de software
 * Throughput: é a medida na qual um sistema processa requisições, operações, tarefas ou solicitações num determinado período de tempo.
 * Escalabilidade: é a capacidade que um sistema tem de lidar com um grande número de usuários simultâneos sem uma séria diminuição do desempenho. (Definição extraída do livro [Fundamentos de Arquitetura de Software - Uma abordagem de engenharia](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859/ref=sr_1_1?sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9))
 * Elasticidade: a capacidade do sistema de lidar com picos de requisições.
+* Disponibilidade (Availability): refere-se à proporção de tempo em que um sistema está operacional e acessível aos usuários conforme pretendido. É normalmente expresso como uma porcentagem (por exemplo, disponibilidade de "cinco noves" é 99,999% de tempo de atividade).
+* Tolerancia a falhas (Fault tolerance): a capacidade do sistema de continuar operando corretamente mesmo quando componentes falham.
 
 
 
